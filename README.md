@@ -50,8 +50,7 @@ Ziel ist ein methodisch nachvollziehbarer, ressourcenbeschränkter Benchmark auf
 
 ## Notebook-Reihenfolge
 1. `01_setup_and_sanity.ipynb` – Setup & Sanity-Checks
-2. `02_funsd_data_load.ipynb` – FUNSD Daten laden
-3. `03_layoutlm_dryrun.ipynb` – LayoutLM Dry-Run
-4. `04_layoutlm_fullrun.ipynb` – LayoutLM Full-Run
-5. `05_layoutlmv3_runs.ipynb` – LayoutLMv3 Runs
-6. `06_results_summary.ipynb` – Ergebnis-Summary
+3. `02_layoutlm_dryrun.ipynb` – LayoutLM Dry-Run
+4. `03_layoutlm_fullrun.ipynb` – LayoutLM Full-Run
+5. `04_layoutlmv3_runs.ipynb` – LayoutLMv3 Runs
+
